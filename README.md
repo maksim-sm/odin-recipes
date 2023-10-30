@@ -1,2 +1,3 @@
 # odin-recipes
-My learning project to practice HTML. Based on The Odin Project.
+My learning project to practice basic HTML. 
+It's the first one from The Odin Project.
